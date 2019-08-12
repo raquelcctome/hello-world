@@ -1,3 +1,3 @@
 # hello-world
 
-Hello! Learning guit here
+Hello! Learning git here
